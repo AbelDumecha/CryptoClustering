@@ -1,6 +1,6 @@
-# Unsupervised machine learning (module_19 challenge)
+# Unsupervised Machine Learning (module_19 challenge)
 
-## Instructions
+## Crypto Clustering 
 
 ### Data Loading
 1. Load `crypto_market_data.csv` into a DataFrame.
